@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finesse</string>
+    <string name="join_the_finesse_family">Join the Finesse family</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="textview">Welcome to the Finesse App! A place where students can share educational content such as homework, test, notes, and quizzes! EVERYBODY EATS!</string>
+</resources>
